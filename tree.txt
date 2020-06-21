@@ -1,0 +1,78 @@
+卷 系统 的文件夹 PATH 列表
+卷序列号为 0008-47DE
+C:.
+│  README.md
+│  tree.txt
+│  
+├─.idea
+│  │  bayes.iml
+│  │  dataSources.local.xml
+│  │  dataSources.xml
+│  │  misc.xml
+│  │  modules.xml
+│  │  workspace.xml
+│  │  
+│  ├─dataSources
+│  │      60859af4-2dbc-4d9c-9f4b-306a8b0c8abc.xml
+│  │      
+│  └─inspectionProfiles
+│          profiles_settings.xml
+│          
+├─python
+│  │  .qiniu_pythonsdk_hostscache.json
+│  │  dataTreating.py
+│  │  keyWordCloud.py
+│  │  newsClassify.py
+│  │  server.py
+│  │  txt.py
+│  │  
+│  ├─data
+│  │      simhei.ttf
+│  │      stopwords.txt
+│  │      val.txt
+│  │      wordcloud.png
+│  │      
+│  └─__pycache__
+│          dataTreating.cpython-37.pyc
+│          keyWordCloud.cpython-37.pyc
+│          newsClassify.cpython-37.pyc
+│          txt.cpython-37.pyc
+│          
+└─vue
+    │  .browserslistrc
+    │  .gitignore
+    │  babel.config.js
+    │  package-lock.json
+    │  package.json
+    │  README.md
+    │  
+    ├─dist
+    │  │  favicon.ico
+    │  │  index.html
+    │  │  
+    │  ├─css
+    │  │      app.bf89a8b3.css
+    │  │      chunk-vendors.f23fcc3e.css
+    │  │      
+    │  ├─dist
+    │  │  └─js
+    │  ├─fonts
+    │  │      element-icons.535877f5.woff
+    │  │      element-icons.732389de.ttf
+    │  │      
+    │  └─js
+    │          app.3ac366db.js
+    │          app.3ac366db.js.map
+    │          app.e71854fc.js.map
+    │          chunk-vendors.27d8cdce.js
+    │          chunk-vendors.27d8cdce.js.map
+    │          
+    ├─public
+    │      favicon.ico
+    │      index.html
+    │      
+    └─src
+            App.vue
+            main.js
+            request.js
+            
