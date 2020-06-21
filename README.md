@@ -28,11 +28,11 @@
 
 #### 1.将数据存入数据库
 
-- 在`dataTreating.py`的main模块里调用main函数
+- 在`dataTreating.py`的main模块里调用save_db函数
 
   ```python
   if __name__ == '__main__':
-      main()
+      save_db()
   ```
 
 #### 2.启动web服务器
